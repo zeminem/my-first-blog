@@ -1,0 +1,9 @@
+{
+    "workbench.colorTheme": "Monokai Dimmed",
+    "workbench.iconTheme": "vs-minimal",
+    "python.venvFolders": [
+        "djangogirls"
+    ],
+    "python.venvPath": "C:\\Users\\Neo\\djangogirls\\myvenv",
+    "python.pythonPath": "C:\\Users\\Neo\\djangogirls\\myvenv"
+}
