@@ -38,6 +38,7 @@ h1, h2, h3, h4 {
 
 .post-from textarea, .post-from input{
     width: 100%;
+    height: 35%;
 }
 
 .top-menu, .top-menu:hover, .top-menu:visited {
